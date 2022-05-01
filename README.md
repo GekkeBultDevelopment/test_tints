@@ -1,4 +1,4 @@
-### Weapon tints
+#### Weapon tints FiveM
 
 ### Requirements
 - This resource is fully standalone!

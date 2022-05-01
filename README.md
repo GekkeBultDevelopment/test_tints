@@ -1,7 +1,7 @@
 <h1 align='center'>Weapon tints</a></h1><p align='center'><b>Just a very simple script!</b></h5>
 
 ### Requirements
-- This resource is fully standalone!
+- ESX.
 
 
 ### Installation

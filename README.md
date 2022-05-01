@@ -1,4 +1,4 @@
-<h1 align='center'>Weapon tints</a></h1><p align='center'><b>for FiveM!</b></h5>
+<h1 align='center'>Weapon tints</a></h1><p align='center'><b>Kust a very simple script!</b></h5>
 
 ### Requirements
 - This resource is fully standalone!

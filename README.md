@@ -1,4 +1,4 @@
-#### Weapon tints FiveM
+<h1 align='center'>Weapon tints</a></h1><p align='center'><b>for FiveM!</b></h5>
 
 ### Requirements
 - This resource is fully standalone!

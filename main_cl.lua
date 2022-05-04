@@ -35,6 +35,6 @@ end)
 
 RegisterCommand("test_tint", function(source, args, raw)
 	local CurrentWeapon = GetSelectedPedWeapon(PlayerPedId()) -- Get current weapon ped is equiped.
-    SetPedWeaponTintIndex(PlayerPedId(), CurrentWeapon, tonumber(args[1])) -- Set the weapon tint on de currentweapon.
+        SetPedWeaponTintIndex(PlayerPedId(), CurrentWeapon, tonumber(args[1])) -- Set the weapon tint on de currentweapon.
 	ESX.ShowNotification("Succesfully added weapon tint!") -- Just a simple notification.
 end)
